@@ -26,7 +26,7 @@
 ![alt text](img/wifi_bookmarkGroup.png)
 
 ## ERD
-![alt text](wifi_erd.png)
+![alt text](img/wifi_erd.png)
 
 ## 트러블슈팅
 

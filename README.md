@@ -17,13 +17,13 @@
 - 가져온 정보를 gson을 사용해 파싱, SQLite DB에 저장
 - JavaScript로 현재 위치 가져오기
 - 가져온 와이파이 정보에서 현재 위치와 가까운 20개의 데이터 출력
-![alt text](wifi_main.png)
+![alt text](img/wifi_main.png)
 - 와이파이 상세 정보 보기
-![alt text](wifi_detail.png)
+![alt text](img/wifi_detail.png)
 - 가까운 와이파이 정보 검색 시 위치 히스토리 등록
-![alt text](wifi_history.png)
+![alt text](img/wifi_history.png)
 - 북마크 그룹, 북마크 추가 기능
-![alt text](wifi_bookmarkGroup.png)
+![alt text](img/wifi_bookmarkGroup.png)
 
 ## ERD
 ![alt text](wifi_erd.png)
